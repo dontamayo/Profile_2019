@@ -1,0 +1,21 @@
+body {
+    background-color: lightcyan;
+}
+h1 {
+    color: #66BFBF;
+    font-style: oblique;
+}
+h3 {
+    color: #66BFBF;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 3px;
+    width: 10%;
+}
+img {
+    border-radius: 10rem;
+
+}
